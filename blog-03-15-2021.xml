@@ -1,0 +1,1107 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet href="https://www.blogger.com/styles/atom.css" type="text/css"?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:thr='http://purl.org/syndication/thread/1.0' xmlns:georss='http://www.georss.org/georss'><id>tag:blogger.com,1999:blog-4560978628508153115.archive</id><updated>2021-03-15T12:15:40.014-07:00</updated><title type='text'>tutorialweb</title><link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://tutorialbetua.blogspot.com/feeds/archive'/><link rel='self' type='application/atom+xml' href='https://tutorialbetua.blogspot.com/feeds/archive'/><link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/archive'/><link rel='alternate' type='text/html' href='http://tutorialbetua.blogspot.com/'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author><generator version='7.00' uri='https://www.blogger.com'>Blogger</generator><entry><id>tag:blogger.com,1999:blog-4560978628508153115.template</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#template'/><title type='text'>Template: tutorialweb</title><content type='text'>&lt;!DOCTYPE html&gt;
+ &lt;html lang="en"&gt;
+   &lt;head&gt;
+	&lt;meta charset="utf-8"&gt;
+	&lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;
+	&lt;meta name="viewport" content="width=device-width, initial-scale=1" /&gt;
+	 &lt;meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"&gt;
+	 &lt;link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"&gt;
+	 &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"&gt;&lt;/script&gt;
+	 &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"&gt;&lt;/script&gt;
+	 &lt;!-- Bootstrap CSS --&gt;
+	 &lt;link rel="stylesheet" href="style.css"&gt;
+	 &lt;link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"&gt;
+	 &lt;link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css"&gt;
+	 &lt;link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"&gt; 
+	&lt;link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"&gt;
+	&lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"&gt;&lt;/script&gt;
+	&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"&gt;&lt;/script&gt;
+	&lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"&gt;&lt;/script&gt;
+    &lt;title&gt;প্রবাসী বিজনেস প্ল্যান লিমিটেড&lt;/title&gt;
+    &lt;link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"&gt;
+   &lt;link rel="stylesheet" href="style.css"&gt;
+   &lt;link href="css/styles.css" rel="stylesheet"&gt;
+	&lt;link href="css/style.css" rel="stylesheet"&gt;
+   &lt;link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat"&gt;
+   &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"&gt;&lt;/script&gt;
+   &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"&gt;&lt;/script&gt; 
+   &lt;link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"&gt;
+   &lt;link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css"&gt;
+    &lt;link rel="stylesheet" href="style.css"&gt;
+   &lt;link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"&gt;
+   &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"&gt;&lt;/script&gt;
+   &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"&gt;&lt;/script&gt;
+   &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"&gt;&lt;/script&gt;
+   &lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"&gt;
+   &lt;script src="js/scripts.js"&gt;&lt;/script&gt;
+	 &lt;link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"&gt;
+	 &lt;link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"&gt;
+	 &lt;script src="https://code.jquery.com/jquery-3.5.1.min.js"&gt;&lt;/script&gt;
+	 &lt;script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"&gt;&lt;/script&gt;
+	 &lt;script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"&gt;&lt;/script&gt;
+   &lt;link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"&gt;
+   &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"&gt;&lt;/script&gt;
+   &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"&gt;&lt;/script&gt;
+	 &lt;link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"&gt;
+	 &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"&gt;&lt;/script&gt;
+	 &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"&gt;&lt;/script&gt;
+	 &lt;meta charset="utf-8"&gt;
+	 &lt;meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"&gt;
+	 &lt;title&gt;Bootstrap 4 Dropdowns within Buttons&lt;/title&gt;
+	 &lt;link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"&gt;
+	 &lt;link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"&gt;
+	 &lt;script src="https://code.jquery.com/jquery-3.5.1.min.js"&gt;&lt;/script&gt;
+	 &lt;script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"&gt;&lt;/script&gt;
+	 &lt;script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"&gt;&lt;/script&gt;
+		 &lt;/head&gt;
+		 &lt;body&gt;
+           &lt;script&gt;
+     function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+
+function myFunction() {
+  // Declare variables
+  var input, filter, ul, li, a, i;
+  input = document.getElementById("mySearch");
+  filter = input.value.toUpperCase();
+  ul = document.getElementById("myMenu");
+  li = ul.getElementsByTagName("li");
+
+  // Loop through all list items, and hide those who don't match the search query
+  for (i = 0; i &lt; li.length; i++) {
+    a = li[i].getElementsByTagName("a")[0];
+    if (a.innerHTML.toUpperCase().indexOf(filter) &gt; -1) {
+      li[i].style.display = "";
+    } else {
+      li[i].style.display = "none";
+    }
+  }
+}
+
+
+/* Set the width of the sidebar to 250px and the left margin of the page content to 250px */
+function openNav() {
+  document.getElementById("mySidebar").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
+}
+
+/* Set the width of the sidebar to 0 and the left margin of the page content to 0 */
+function closeNav() {
+  document.getElementById("mySidebar").style.width = "0";
+  document.getElementById("main").style.marginLeft = "0";
+}
+
+
+function openTab(tabName) {
+  var i, x;
+  x = document.getElementsByClassName("containerTab");
+  for (i = 0; i &lt; x.length; i++) {
+    x[i].style.display = "none";
+  }
+  document.getElementById(tabName).style.display = "block";
+}
+
+
+
+           &lt;/script&gt;
+		  
+		   
+		   &lt;div id="mySidebar" class="sidebar"&gt;
+			 &lt;a href="javascript:void(0)" class="closebtn" onclick="closeNav()"&gt;&amp;times;&lt;/a&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Home&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;News&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Total-List&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Login&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Profiles&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Registers&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;About&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Home&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;News&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Total-List&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Login&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Profiles&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Registers&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;About&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Home&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;News&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Total-List&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Login&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Profiles&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Registers&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;About&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Home&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;News&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Total-List&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Login&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Profiles&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Registers&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;About&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Home&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;News&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Total-List&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Login&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Profiles&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Registers&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;About&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Home&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;News&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Total-List&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Login&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Profiles&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Registers&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;About&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Home&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;News&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Total-List&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Login&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Profiles&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Registers&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;About&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Home&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;News&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Total-List&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Login&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Profiles&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Registers&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+			   &lt;li&gt;&lt;a href="#"&gt;About&lt;/a&gt;&lt;/li&gt;
+			 &lt;img src="images/IMG_20200723_124035.jpg" alt="BETUA BSD™LTD" width="40%" height="100px" class="center"&gt;
+		   &lt;/div&gt;
+
+		   &lt;div id="main"&gt;
+			 &lt;button class="openbtn" onclick="openNav()"&gt;&amp;#9776;Free Domain Hosting Tutorial&lt;/button&gt;
+		   &lt;/div&gt;
+	      &lt;div class="topnav"&gt;
+		 &lt;a class="#active" href="#home"&gt;Home&lt;/a&gt;
+		 &lt;a href="#about"&gt;About&lt;/a&gt;
+		 &lt;a href="#contact"&gt;Contact&lt;/a&gt;
+		 &lt;a href="#about"&gt;About&lt;/a&gt;
+		 &lt;a href="#contact"&gt;Contact&lt;/a&gt;
+		 &lt;div class="search-container"&gt;
+		   &lt;form action="index.html"&gt;
+			 &lt;input type="text" placeholder="Search.." name="search"&gt;
+			 &lt;button type="submit"&gt;Submit&lt;/button&gt;
+		   &lt;/form&gt;
+		 &lt;/div&gt;
+		  &lt;/div&gt;
+		 &lt;div class="clear"&gt;
+		 &lt;/div&gt;
+		 &lt;!-- Load an icon library to show a hamburger menu (bars) on small screens --&gt;
+		  
+		 &lt;div class="topnav" id="myTopnav"&gt;
+		   &lt;a href="#home" class="active"&gt;Home&lt;/a&gt;
+		   &lt;a href="#news"&gt;News&lt;/a&gt;
+		   &lt;a href="#contact"&gt;Contact&lt;/a&gt;
+		   &lt;a href="#about"&gt;About&lt;/a&gt;
+		   &lt;a href="#news"&gt;News&lt;/a&gt;
+		   &lt;a href="#contact"&gt;Contact&lt;/a&gt;
+		   &lt;a href="#about"&gt;About&lt;/a&gt;
+		   &lt;a href="#news"&gt;News&lt;/a&gt;
+		   &lt;a href="#contact"&gt;Contact&lt;/a&gt;
+		   &lt;a href="#about"&gt;About&lt;/a&gt;   
+	 &lt;/div&gt;
+	 &lt;div class="container"&gt;
+	   &lt;!--not eddit --&gt;
+	   &lt;div id="myCarousel" class="carousel slide" data-ride="carousel"&gt;
+		 &lt;!-- Indicators --&gt;
+		 &lt;ol class="carousel-indicators"&gt;
+		   &lt;li data-target="#myCarousel" data-slide-to="0" class="active"&gt;&lt;/li&gt;
+		   &lt;li data-target="#myCarousel" data-slide-to="1"&gt;&lt;/li&gt;
+		 &lt;/ol&gt;
+
+		 &lt;!-- Wrapper for slides --&gt;
+		 &lt;div class="carousel-inner" role="listbox"&gt;
+		   &lt;div class="item active"&gt;
+			 &lt;img src="images/IMG_20200723_124035.jpg" alt="Image"&gt;
+			 &lt;div class="carousel-caption"&gt;
+			 &lt;/div&gt;      
+		   &lt;/div&gt;
+		   &lt;div class="item"&gt;
+			 &lt;img src="images/IMG_20200723_123540.jpg" alt="Image"&gt;
+			 &lt;div class="carousel-caption"&gt;
+			 &lt;/div&gt;      
+		   &lt;/div&gt;
+		 &lt;/div&gt;
+		 &lt;!-- Left and right controls --&gt;
+		 &lt;a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"&gt;
+		   &lt;span class="glyphicon glyphicon-chevron-left" aria-hidden="true"&gt;&lt;/span&gt;
+		   &lt;span class="sr-only"&gt;Previous&lt;/span&gt;
+		 &lt;/a&gt;
+		 &lt;a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"&gt;
+		   &lt;span class="glyphicon glyphicon-chevron-right" aria-hidden="true"&gt;&lt;/span&gt;
+		   &lt;span class="sr-only"&gt;Next&lt;/span&gt;
+		 &lt;/a&gt;
+	   &lt;/div&gt;
+	   &lt;!--not eddit --&gt;
+	 &lt;/div&gt;
+	 &lt;div class="jumbotron text-center"&gt;
+	 &lt;/div&gt;
+	   &lt;div class="bs-example"&gt; 
+		 &lt;h1&gt;প্রবাসী বিজনেস প্ল্যান লিমিটেড&lt;/h1&gt;
+		 &lt;div class="btn-group"&gt;
+		   &lt;button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown"&gt;Action&lt;/button&gt;
+		   &lt;div class="dropdown-menu"&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Action&lt;/a&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Another action&lt;/a&gt;
+			 &lt;div class="dropdown-divider"&gt;&lt;/div&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Separated link&lt;/a&gt;
+		   &lt;/div&gt;
+		 &lt;/div&gt;
+		 &lt;div class="btn-group"&gt;
+		   &lt;button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown"&gt;Action&lt;/button&gt;
+		   &lt;div class="dropdown-menu"&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Action&lt;/a&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Another action&lt;/a&gt;
+			 &lt;div class="dropdown-divider"&gt;&lt;/div&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Separated link&lt;/a&gt;
+		   &lt;/div&gt;
+		 &lt;/div&gt;
+		 &lt;div class="btn-group"&gt;
+		   &lt;button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown"&gt;Action&lt;/button&gt;
+		   &lt;div class="dropdown-menu"&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Action&lt;/a&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Another action&lt;/a&gt;
+			 &lt;div class="dropdown-divider"&gt;&lt;/div&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Separated link&lt;/a&gt;
+		   &lt;/div&gt;
+		 &lt;/div&gt;
+		 &lt;div class="btn-group"&gt;
+		   &lt;button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown"&gt;Action&lt;/button&gt;
+		   &lt;div class="dropdown-menu"&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Action&lt;/a&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Another action&lt;/a&gt;
+			 &lt;div class="dropdown-divider"&gt;&lt;/div&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Separated link&lt;/a&gt;
+		   &lt;/div&gt;
+		 &lt;/div&gt;
+		 &lt;div class="btn-group"&gt;
+		   &lt;button type="button" class="btn btn-warning dropdown-toggle" data-toggle="dropdown"&gt;Action&lt;/button&gt;
+		   &lt;div class="dropdown-menu"&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Action&lt;/a&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Another action&lt;/a&gt;
+			 &lt;div class="dropdown-divider"&gt;&lt;/div&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Separated link&lt;/a&gt;
+		   &lt;/div&gt;
+		 &lt;/div&gt;
+		 &lt;div class="btn-group"&gt;
+		   &lt;button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown"&gt;Action&lt;/button&gt;
+		   &lt;div class="dropdown-menu"&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Action&lt;/a&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Another action&lt;/a&gt;
+			 &lt;div class="dropdown-divider"&gt;&lt;/div&gt;
+			 &lt;a href="#" class="dropdown-item"&gt;Separated link&lt;/a&gt;
+		   &lt;/div&gt;
+		 &lt;/div&gt;
+	   &lt;/div&gt;
+	   &lt;div class="clear"&gt;
+	   &lt;div&gt;
+	   &lt;/div&gt;
+		   &lt;div class="container p-3 my-3 border"&gt;
+			 &lt;h2&gt;প্রবাসী বিজনেস প্ল্যান লিমিটেড&lt;/h2&gt;
+			 &lt;p&gt;সহ-সভাপতি : সহ-সভাপতি সভাপতির সকল কাজে সহায়তা করেন। সভাপতির অনুপস্থিতিতে সহ-সভাপতি সভাপতির দায়িত্ব ও ক্ষমতার অধিকারি হন। এ ছাড়াও তিনি তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন। 
+
+			   ৩) সাধারন সম্পাদক : সাধারন সম্পাদক সংগঠনের প্রধান নির্বাহী কর্মকর্তা। তিনি সভাপতির পরামর্শক্রমে সংগঠনের সভা আহ্বান করেন। তিনি প্রয়োজনবোধে অন্যান্য কর্মকর্তার ওপর বিভিন্ন দায়িত্ব অর্পন করেন এবং তাদের কাজের মধ্যে সংযোগ ও সমন্বয় সাধন করেন। সংগঠনের দৈনন্দিন কার্যকলাপের জন্যে দায়ি থাকেন। প্রতিটি সভায় তিনি সংগঠনের কার্যাবলীর রিপোর্ট পেশ করেন। 
+
+			   ৪) সহ-সাধারন সম্পাদক : তিনি সাধারন সম্পাদকের সকল কাজে সহায়তা করেন। সাধারন সম্পাদকের অনুপস্থিতিতে তিনি সাধারন সম্পাদকের সকল দায়িত্ব ও ক্ষমতার অধিকারি হন। এছাড়াও তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন। 
+
+			   ৫) সাংগঠনিক সম্পাদক : প্রতিষ্ঠানকে সাংগঠনিক ভাবে সুদৃঢ় করতে সচেষ্ট থাকেন। সাংগঠনিক সম্পাদক সংগঠনকে শক্তিশালী করার জন্য সর্বদা নিয়োজিত থাকবেন। সংগঠনের শৃঙ্খলা এবং ব্যাপ্তি ঘটানোর জন্য নিবেদিত প্রাণ হিসেবে কাজ করাই তার প্রধান। সংগঠনের সভাপতির সঙ্গে আলোচনাক্রমে তিনি সংগঠনের সকল সভা আহ্বান করবেন এবং সভার কার্যবিবরণী লিপিবদ্ধ করার ব্যাবস্থা গ্রহণ করবেন । সংগঠনের স্বার্থ সংরক্ষণের দায়িত্ব ও প্রশাসনিক কার্যভার তার উপর ন্যস্ত থাকবে এবং কার্যকরী পরিষদ কর্তৃক অর্পিত অন্যান্য দায়িত্বও তাকে পালন করতে হবে । সংগঠনের নথিপত্র ও সম্পদ তাঁর তত্ত্বাবধানে থাকবে এবং এ ব্যাপারে তিনি একটি রেজিস্টার খাতা রাখবেন । সভাপতির সাক্ষর থাকবে । তিনি বছরের কার্যবিবরণী প্রস্তুত করবেন এবং তা কার্যকরী পরিষদেও অনুমোদনক্রমে, তা বার্ষিক সাধারণ সভায় পেশ করবেন ।
+
+			   ৬) সহ-সাংগঠনিক সম্পাদক: সাংগঠনিক সম্পাদকের সকল কাজে সহায়তা করেন। সাংগঠনিক সম্পাদকের অনুপস্থিতিতে তিনি সাংগঠনিক সম্পাদকের সকল দায়িত্ব ও ক্ষমতার অধিকারি হন। এছাড়াও তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন।  
+
+			   ৭) প্রচার সম্পাদক: পদের নামেই বোঝা যাচ্ছে তার কাজ কি হবে। মূলত প্রচার করাই প্রচার সম্পাদকের কাজ। তিনি যে সংগঠন বা প্রতিষ্ঠার প্রচার সম্পাদক হিসেবে মনোনীত হবেন সেই সংযুক্ত প্রতিষ্ঠান, সংঘ বা দলের যেকোনো কার্যক্রম সম্পর্কিত খবরাখবর অন্যান্য কর্মকর্তা এবং প্রয়োজনে সাধারণ মানুষের নিকট পৌছে দেয়ার জন্য তিনি মুখপাত্রের ভূমিকা পালন করেন। প্রচার কাজের জন্য তার আওতাধীণ অন্যান্য কর্মীরা থাকলে তাদেরকে পরিচালিত করাও তার কাজ। প্রচার কাজের জন্য সংযুক্ত চিঠি, নোটিশ, পোস্টার, ব্যানারসহ অন্যান্য ডকুমেন্ট তার দ্বায়ি
+			   ৮) কোষাধ্যক্ষ : সংগঠনের যাবতীয় অর্থ তার মারফত ব্যাংকে জমা থাকে। তিনি প্রতিষ্ঠানের আয়-ব্যয়ের হিসাব রক্ষা ও প্রদান করেন। বিভিন্ন বিভাগের আয়-ব্যয়ের সমন্বয় করেন। 
+			 &lt;/p&gt; 
+		 &lt;/div&gt;
+	    &lt;div class="clear"&gt;
+	 &lt;/div&gt;
+		 &lt;div class="container p-3 my-3 border"&gt;
+		   &lt;h2&gt;প্রবাসী বিজনেস প্ল্যান লিমিটেড&lt;/h2&gt;
+		    &lt;p&gt;সহ-সভাপতি : সহ-সভাপতি সভাপতির সকল কাজে সহায়তা করেন। সভাপতির অনুপস্থিতিতে সহ-সভাপতি সভাপতির দায়িত্ব ও ক্ষমতার অধিকারি হন। এ ছাড়াও তিনি তার উপর অর্পিত অন্যান্য দায়িত্ব 		   ৩) সাধারন সম্পাদক : সাধারন সম্পাদক সংগঠনের প্রধান নির্বাহী কর্মকর্তা। তিনি সভাপতির পরামর্শক্রমে সংগঠনের সভা আহ্বান করেন। তিনি প্রয়োজনবোধে অন্যান্য কর্মকর্তার ওপর বিভিন্ন দায়িত্ব অর্পন করেন এবং তাদের কাজের মধ্যে সংযোগ ও সমন্বয় সাধন করেন। সংগঠনের দৈনন্দিন কার্যকলাপের জন্যে দায়ি থাকেন। প্রতিটি সভায় তিনি সংগঠনের কার্যাবলীর রিপোর্ট পেশ করেন। 
+
+		   ৪) সহ-সাধারন সম্পাদক : তিনি সাধারন সম্পাদকের সকল কাজে সহায়তা করেন। সাধারন সম্পাদকের অনুপস্থিতিতে তিনি সাধারন সম্পাদকের সকল দায়িত্ব ও ক্ষমতার অধিকারি হন। এছাড়াও তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন। 
+
+		   ৫) সাংগঠনিক সম্পাদক : প্রতিষ্ঠানকে সাংগঠনিক ভাবে সুদৃঢ় করতে সচেষ্ট থাকেন। সাংগঠনিক সম্পাদক সংগঠনকে শক্তিশালী করার জন্য সর্বদা নিয়োজিত থাকবেন। সংগঠনের শৃঙ্খলা এবং ব্যাপ্তি ঘটানোর জন্য নিবেদিত প্রাণ হিসেবে কাজ করাই তার প্রধান। সংগঠনের সভাপতির সঙ্গে আলোচনাক্রমে তিনি সংগঠনের সকল সভা আহ্বান করবেন এবং সভার কার্যবিবরণী লিপিবদ্ধ করার ব্যাবস্থা গ্রহণ করবেন । সংগঠনের স্বার্থ সংরক্ষণের দায়িত্ব ও প্রশাসনিক কার্যভার তার উপর ন্যস্ত থাকবে এবং কার্যকরী পরিষদ কর্তৃক অর্পিত অন্যান্য দায়িত্বও তাকে পালন করতে হবে । সংগঠনের নথিপত্র ও সম্পদ তাঁর তত্ত্বাবধানে থাকবে এবং এ ব্যাপারে তিনি একটি রেজিস্টার খাতা রাখবেন । সভাপতির সাক্ষর থাকবে । তিনি বছরের কার্যবিবরণী প্রস্তুত করবেন এবং তা কার্যকরী পরিষদেও অনুমোদনক্রমে, তা বার্ষিক সাধারণ সভায় পেশ করবেন ।
+
+		   ৬) সহ-সাংগঠনিক সম্পাদক: সাংগঠনিক সম্পাদকের সকল কাজে সহায়তা করেন। সাংগঠনিক সম্পাদকের অনুপস্থিতিতে তিনি সাংগঠনিক সম্পাদকের সকল দায়িত্ব ও ক্ষমতার অধিকারি হন। এছাড়াও তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন।  
+
+		   ৭) প্রচার সম্পাদক: পদের নামেই বোঝা যাচ্ছে তার কাজ কি হবে। মূলত প্রচার করাই প্রচার সম্পাদকের কাজ। তিনি যে সংগঠন বা প্রতিষ্ঠার প্রচার সম্পাদক হিসেবে মনোনীত হবেন সেই সংযুক্ত প্রতিষ্ঠান, সংঘ বা দলের যেকোনো কার্যক্রম সম্পর্কিত খবরাখবর অন্যান্য কর্মকর্তা এবং প্রয়োজনে সাধারণ মানুষের নিকট পৌছে দেয়ার জন্য তিনি মুখপাত্রের ভূমিকা পালন করেন। প্রচার কাজের জন্য তার আওতাধীণ অন্যান্য কর্মীরা থাকলে তাদেরকে পরিচালিত করাও তার কাজ। প্রচার কাজের জন্য সংযুক্ত চিঠি, নোটিশ, পোস্টার, ব্যানারসহ অন্যান্য ডকুমেন্ট তার দ্বায়িতে থাকবে।
+
+		   ৮) কোষাধ্যক্ষ : সংগঠনের যাবতীয় অর্থ তার মারফত ব্যাংকে জমা থাকে। তিনি প্রতিষ্ঠানের আয়-ব্যয়ের হিসাব রক্ষা ও প্রদান করেন। বিভিন্ন বিভাগের আয়-ব্যয়ের সমন্বয় করেন। 
+		   &lt;/p&gt; 
+		   &lt;/div&gt;
+		   
+	 &lt;div class="clear"&gt;
+	 &lt;/div&gt;
+	  &lt;div class="container p-3 my-3 border"&gt;
+		&lt;h2&gt;প্রবাসী বিজনেস প্ল্যান লিমিটেড&lt;/h2&gt;
+		&lt;p&gt;সহ-সভাপতি : সহ-সভাপতি সভাপতির সকল কাজে সহায়তা করেন। সভাপতির অনুপস্থিতিতে সহ-সভাপতি সভাপতির দায়িত্ব ও ক্ষমতার অধিকারি হন। এ ছাড়াও তিনি তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন। 
+
+		  ৩) সাধারন সম্পাদক : সাধারন সম্পাদক সংগঠনের প্রধান নির্বাহী কর্মকর্তা। তিনি সভাপতির পরামর্শক্রমে সংগঠনের সভা আহ্বান করেন। তিনি প্রয়োজনবোধে অন্যান্য কর্মকর্তার ওপর বিভিন্ন দায়িত্ব অর্পন করেন এবং তাদের কাজের মধ্যে সংযোগ ও সমন্বয় সাধন করেন। সংগঠনের দৈনন্দিন কার্যকলাপের জন্যে দায়ি থাকেন। প্রতিটি সভায় তিনি সংগঠনের কার্যাবলীর রিপোর্ট পেশ করেন। 
+
+		  ৪) সহ-সাধারন সম্পাদক : তিনি সাধারন সম্পাদকের সকল কাজে সহায়তা করেন। সাধারন সম্পাদকের অনুপস্থিতিতে তিনি সাধারন সম্পাদকের সকল দায়িত্ব ও ক্ষমতার অধিকারি হন। এছাড়াও তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন। 
+
+		  ৫) সাংগঠনিক সম্পাদক : প্রতিষ্ঠানকে সাংগঠনিক ভাবে সুদৃঢ় করতে সচেষ্ট থাকেন। সাংগঠনিক সম্পাদক সংগঠনকে শক্তিশালী করার জন্য সর্বদা নিয়োজিত থাকবেন। সংগঠনের শৃঙ্খলা এবং ব্যাপ্তি ঘটানোর জন্য নিবেদিত প্রাণ হিসেবে কাজ করাই তার প্রধান। সংগঠনের সভাপতির সঙ্গে আলোচনাক্রমে তিনি সংগঠনের সকল সভা আহ্বান করবেন এবং সভার কার্যবিবরণী লিপিবদ্ধ করার ব্যাবস্থা গ্রহণ করবেন । সংগঠনের স্বার্থ সংরক্ষণের দায়িত্ব ও প্রশাসনিক কার্যভার তার উপর ন্যস্ত থাকবে এবং কার্যকরী পরিষদ কর্তৃক অর্পিত অন্যান্য দায়িত্বও তাকে পালন করতে হবে । সংগঠনের নথিপত্র ও সম্পদ তাঁর তত্ত্বাবধানে থাকবে এবং এ ব্যাপারে তিনি একটি রেজিস্টার খাতা রাখবেন । সভাপতির সাক্ষর থাকবে । তিনি বছরের কার্যবিবরণী প্রস্তুত করবেন এবং তা কার্যকরী পরিষদেও অনুমোদনক্রমে, তা বার্ষিক সাধারণ সভায় পেশ করবেন ।
+
+		  ৬) সহ-সাংগঠনিক সম্পাদক: সাংগঠনিক সম্পাদকের সকল কাজে সহায়তা করেন। সাংগঠনিক সম্পাদকের অনুপস্থিতিতে তিনি সাংগঠনিক সম্পাদকের সকল দায়িত্ব ও ক্ষমতার অধিকারি হন। এছাড়াও তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন।  
+
+		  ৭) প্রচার সম্পাদক: পদের নামেই বোঝা যাচ্ছে তার কাজ কি হবে। মূলত প্রচার করাই প্রচার সম্পাদকের কাজ। তিনি যে সংগঠন বা প্রতিষ্ঠার প্রচার সম্পাদক হিসেবে মনোনীত হবেন সেই সংযুক্ত প্রতিষ্ঠান, সংঘ বা দলের যেকোনো কার্যক্রম সম্পর্কিত খবরাখবর অন্যান্য কর্মকর্তা এবং প্রয়োজনে সাধারণ মানুষের নিকট পৌছে দেয়ার জন্য তিনি মুখপাত্রের ভূমিকা পালন করেন। প্রচার কাজের জন্য তার আওতাধীণ অন্যান্য কর্মীরা থাকলে তাদেরকে পরিচালিত করাও তার কাজ। প্রচার কাজের জন্য সংযুক্ত চিঠি, নোটিশ, পোস্টার, ব্যানারসহ অন্যান্য ডকুমেন্ট তার দ্বায়িতে থাকবে।
+
+		  ৮) কোষাধ্যক্ষ : সংগঠনের যাবতীয় অর্থ তার মারফত ব্যাংকে জমা থাকে। তিনি প্রতিষ্ঠানের আয়-ব্যয়ের হিসাব রক্ষা ও প্রদান করেন। বিভিন্ন বিভাগের আয়-ব্যয়ের সমন্বয় করেন। 
+		&lt;/p&gt; 
+		&lt;/div&gt;
+	 &lt;div class="clear"&gt;
+	 &lt;/div&gt;
+	  &lt;div class="container p-3 my-3 border"&gt;
+		&lt;h2&gt;প্রবাসী বিজনেস প্ল্যান লিমিটেড&lt;/h2&gt;
+		&lt;p&gt;সহ-সভাপতি : সহ-সভাপতি সভাপতির সকল কাজে সহায়তা করেন। সভাপতির অনুপস্থিতিতে সহ-সভাপতি সভাপতির দায়িত্ব ও ক্ষমতার অধিকারি হন। এ ছাড়াও তিনি তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন। 
+
+		  ৩) সাধারন সম্পাদক : সাধারন সম্পাদক সংগঠনের প্রধান নির্বাহী কর্মকর্তা। তিনি সভাপতির পরামর্শক্রমে সংগঠনের সভা আহ্বান করেন। তিনি প্রয়োজনবোধে অন্যান্য কর্মকর্তার ওপর বিভিন্ন দায়িত্ব অর্পন করেন এবং তাদের কাজের মধ্যে সংযোগ ও সমন্বয় সাধন করেন। সংগঠনের দৈনন্দিন কার্যকলাপের জন্যে দায়ি থাকেন। প্রতিটি সভায় তিনি সংগঠনের কার্যাবলীর রিপোর্ট পেশ করেন। 
+
+		  ৪) সহ-সাধারন সম্পাদক : তিনি সাধারন সম্পাদকের সকল কাজে সহায়তা করেন। সাধারন সম্পাদকের অনুপস্থিতিতে তিনি সাধারন সম্পাদকের সকল দায়িত্ব ও ক্ষমতার অধিকারি হন। এছাড়াও তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন। 
+
+		  ৫) সাংগঠনিক সম্পাদক : প্রতিষ্ঠানকে সাংগঠনিক ভাবে সুদৃঢ় করতে সচেষ্ট থাকেন। সাংগঠনিক সম্পাদক সংগঠনকে শক্তিশালী করার জন্য সর্বদা নিয়োজিত থাকবেন। সংগঠনের শৃঙ্খলা এবং ব্যাপ্তি ঘটানোর জন্য নিবেদিত প্রাণ হিসেবে কাজ করাই তার প্রধান। সংগঠনের সভাপতির সঙ্গে আলোচনাক্রমে তিনি সংগঠনের সকল সভা আহ্বান করবেন এবং সভার কার্যবিবরণী লিপিবদ্ধ করার ব্যাবস্থা গ্রহণ করবেন । সংগঠনের স্বার্থ সংরক্ষণের দায়িত্ব ও প্রশাসনিক কার্যভার তার উপর ন্যস্ত থাকবে এবং কার্যকরী পরিষদ কর্তৃক অর্পিত অন্যান্য দায়িত্বও তাকে পালন করতে হবে । সংগঠনের নথিপত্র ও সম্পদ তাঁর তত্ত্বাবধানে থাকবে এবং এ ব্যাপারে তিনি একটি রেজিস্টার খাতা রাখবেন । সভাপতির সাক্ষর থাকবে । তিনি বছরের কার্যবিবরণী প্রস্তুত করবেন এবং তা কার্যকরী পরিষদেও অনুমোদনক্রমে, তা বার্ষিক সাধারণ সভায় পেশ করবেন ।
+
+		  ৬) সহ-সাংগঠনিক সম্পাদক: সাংগঠনিক সম্পাদকের সকল কাজে সহায়তা করেন। সাংগঠনিক সম্পাদকের অনুপস্থিতিতে তিনি সাংগঠনিক সম্পাদকের সকল দায়িত্ব ও ক্ষমতার অধিকারি হন। এছাড়াও তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন।  
+
+		  ৭) প্রচার সম্পাদক: পদের নামেই বোঝা যাচ্ছে তার কাজ কি হবে। মূলত প্রচার করাই প্রচার সম্পাদকের কাজ। তিনি যে সংগঠন বা প্রতিষ্ঠার প্রচার সম্পাদক হিসেবে মনোনীত হবেন সেই সংযুক্ত প্রতিষ্ঠান, সংঘ বা দলের যেকোনো কার্যক্রম সম্পর্কিত খবরাখবর অন্যান্য কর্মকর্তা এবং প্রয়োজনে সাধারণ মানুষের নিকট পৌছে দেয়ার জন্য তিনি মুখপাত্রের ভূমিকা পালন করেন। প্রচার কাজের জন্য তার আওতাধীণ অন্যান্য কর্মীরা থাকলে তাদেরকে পরিচালিত করাও তার কাজ। প্রচার কাজের জন্য সংযুক্ত চিঠি, নোটিশ, পোস্টার, ব্যানারসহ অন্যান্য ডকুমেন্ট তার দ্বায়িতে থাকবে।
+
+		  ৮) কোষাধ্যক্ষ : সংগঠনের যাবতীয় অর্থ তার মারফত ব্যাংকে জমা থাকে। তিনি প্রতিষ্ঠানের আয়-ব্যয়ের হিসাব রক্ষা ও প্রদান করেন। বিভিন্ন বিভাগের আয়-ব্যয়ের সমন্বয় করেন। 
+		&lt;/p&gt; 
+		&lt;/div&gt;
+	 &lt;div class="clear"&gt;
+	 &lt;/div&gt;
+	  &lt;div class="container p-3 my-3 border"&gt;
+		&lt;h2&gt;প্রবাসী বিজনেস প্ল্যান লিমিটেড&lt;/h2&gt;
+		&lt;p&gt;সহ-সভাপতি : সহ-সভাপতি সভাপতির সকল কাজে সহায়তা করেন। সভাপতির অনুপস্থিতিতে সহ-সভাপতি সভাপতির দায়িত্ব ও ক্ষমতার অধিকারি হন। এ ছাড়াও তিনি তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন। 
+
+		  ৩) সাধারন সম্পাদক : সাধারন সম্পাদক সংগঠনের প্রধান নির্বাহী কর্মকর্তা। তিনি সভাপতির পরামর্শক্রমে সংগঠনের সভা আহ্বান করেন। তিনি প্রয়োজনবোধে অন্যান্য কর্মকর্তার ওপর বিভিন্ন দায়িত্ব অর্পন করেন এবং তাদের কাজের মধ্যে সংযোগ ও সমন্বয় সাধন করেন। সংগঠনের দৈনন্দিন কার্যকলাপের জন্যে দায়ি থাকেন। প্রতিটি সভায় তিনি সংগঠনের কার্যাবলীর রিপোর্ট পেশ করেন। 
+
+		  ৪) সহ-সাধারন সম্পাদক : তিনি সাধারন সম্পাদকের সকল কাজে সহায়তা করেন। সাধারন সম্পাদকের অনুপস্থিতিতে তিনি সাধারন সম্পাদকের সকল দায়িত্ব ও ক্ষমতার অধিকারি হন। এছাড়াও তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন। 
+
+		  ৫) সাংগঠনিক সম্পাদক : প্রতিষ্ঠানকে সাংগঠনিক ভাবে সুদৃঢ় করতে সচেষ্ট থাকেন। সাংগঠনিক সম্পাদক সংগঠনকে শক্তিশালী করার জন্য সর্বদা নিয়োজিত থাকবেন। সংগঠনের শৃঙ্খলা এবং ব্যাপ্তি ঘটানোর জন্য নিবেদিত প্রাণ হিসেবে কাজ করাই তার প্রধান। সংগঠনের সভাপতির সঙ্গে আলোচনাক্রমে তিনি সংগঠনের সকল সভা আহ্বান করবেন এবং সভার কার্যবিবরণী লিপিবদ্ধ করার ব্যাবস্থা গ্রহণ করবেন । সংগঠনের স্বার্থ সংরক্ষণের দায়িত্ব ও প্রশাসনিক কার্যভার তার উপর ন্যস্ত থাকবে এবং কার্যকরী পরিষদ কর্তৃক অর্পিত অন্যান্য দায়িত্বও তাকে পালন করতে হবে । সংগঠনের নথিপত্র ও সম্পদ তাঁর তত্ত্বাবধানে থাকবে এবং এ ব্যাপারে তিনি একটি রেজিস্টার খাতা রাখবেন । সভাপতির সাক্ষর থাকবে । তিনি বছরের কার্যবিবরণী প্রস্তুত করবেন এবং তা কার্যকরী পরিষদেও অনুমোদনক্রমে, তা বার্ষিক সাধারণ সভায় পেশ করবেন ।
+
+		  ৬) সহ-সাংগঠনিক সম্পাদক: সাংগঠনিক সম্পাদকের সকল কাজে সহায়তা করেন। সাংগঠনিক সম্পাদকের অনুপস্থিতিতে তিনি সাংগঠনিক সম্পাদকের সকল দায়িত্ব ও ক্ষমতার অধিকারি হন। এছাড়াও তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন।  
+
+		  ৭) প্রচার সম্পাদক: পদের নামেই বোঝা যাচ্ছে তার কাজ কি হবে। মূলত প্রচার করাই প্রচার সম্পাদকের কাজ। তিনি যে সংগঠন বা প্রতিষ্ঠার প্রচার সম্পাদক হিসেবে মনোনীত হবেন সেই সংযুক্ত প্রতিষ্ঠান, সংঘ বা দলের যেকোনো কার্যক্রম সম্পর্কিত খবরাখবর অন্যান্য কর্মকর্তা এবং প্রয়োজনে সাধারণ মানুষের নিকট পৌছে দেয়ার জন্য তিনি মুখপাত্রের ভূমিকা পালন করেন। প্রচার কাজের জন্য তার আওতাধীণ অন্যান্য কর্মীরা থাকলে তাদেরকে পরিচালিত করাও তার কাজ। প্রচার কাজের জন্য সংযুক্ত চিঠি, নোটিশ, পোস্টার, ব্যানারসহ অন্যান্য ডকুমেন্ট তার দ্বায়িতে থাকবে।
+
+		  ৮) কোষাধ্যক্ষ : সংগঠনের যাবতীয় অর্থ তার মারফত ব্যাংকে জমা থাকে। তিনি প্রতিষ্ঠানের আয়-ব্যয়ের হিসাব রক্ষা ও প্রদান করেন। বিভিন্ন বিভাগের আয়-ব্যয়ের সমন্বয় করেন। 
+		&lt;/p&gt;
+
+	   &lt;/div&gt;
+		   &lt;/div&gt;
+		   &lt;div class="clear"&gt;
+			 
+		   &lt;/div&gt;
+		   
+		   &lt;!-- The content of your page would go here. --&gt;
+
+			 &lt;footer class="footer-distributed"&gt;
+
+			   &lt;div class="footer-left"&gt;
+				 &lt;img src="img/logo.png"&gt;
+				 &lt;h3&gt;About&lt;span&gt;Eduonix&lt;/span&gt;&lt;/h3&gt;
+
+				 &lt;p class="footer-links"&gt;
+				   &lt;a href="#"&gt;Home&lt;/a&gt;
+				   
+				   &lt;a href="#"&gt;Blog&lt;/a&gt;
+				   
+				   &lt;a href="#"&gt;About&lt;/a&gt;
+				   
+				   &lt;a href="#"&gt;Contact&lt;/a&gt;
+				 &lt;/p&gt;
+
+				 &lt;p class="footer-company-name"&gt;© 2020 Eduonix Learning Solutions Pvt. Ltd.&lt;/p&gt;
+			   &lt;/div&gt;
+
+			   &lt;div class="footer-center"&gt;
+				 &lt;div&gt;
+				   &lt;i class="fa fa-map-marker"&gt;&lt;/i&gt;
+				   &lt;p&gt;&lt;span&gt;309 - Rupa Solitaire,
+					   Bldg. No. A - 1, Sector - 1&lt;/span&gt;
+					 Mahape, Navi Mumbai - 400710&lt;/p&gt;
+				 &lt;/div&gt;
+
+				 &lt;div&gt;
+				   &lt;i class="fa fa-phone"&gt;&lt;/i&gt;
+				   &lt;p&gt;+91 22-27782183&lt;/p&gt;
+				 &lt;/div&gt;
+				 &lt;div&gt;
+				   &lt;i class="fa fa-envelope"&gt;&lt;/i&gt;
+				   &lt;p&gt;&lt;a href="mailto:support@eduonix.com"&gt;support@eduonix.com&lt;/a&gt;&lt;/p&gt;
+				 &lt;/div&gt;
+			   &lt;/div&gt;
+			   &lt;div class="footer-right"&gt;
+				 &lt;p class="footer-company-about"&gt;
+				   &lt;span&gt;About the company&lt;/span&gt;
+				   We offer training and skill building courses across Technology, Design, Management, Science and Humanities.&lt;/p&gt;
+				 &lt;div class="footer-icons"&gt;
+				   &lt;a href="#"&gt;&lt;i class="fa fa-facebook"&gt;&lt;/i&gt;&lt;/a&gt;
+				   &lt;a href="#"&gt;&lt;i class="fa fa-twitter"&gt;&lt;/i&gt;&lt;/a&gt;
+				   &lt;a href="#"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;/a&gt;
+				   &lt;a href="#"&gt;&lt;i class="fa fa-linkedin"&gt;&lt;/i&gt;&lt;/a&gt;
+				   &lt;a href="#"&gt;&lt;i class="fa fa-youtube"&gt;&lt;/i&gt;&lt;/a&gt;
+				 &lt;/div&gt;
+			   &lt;/div&gt;
+			 &lt;/footer&gt;
+		   &lt;script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"&gt;&lt;/script&gt;
+		   &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"&gt;&lt;/script&gt;
+		   &lt;script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"&gt;&lt;/script&gt;
+           &lt;style&gt;
+
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700');
+img {
+  width: 100%;
+}
+
+.bs-example{
+    	margin: 20px;
+		display:inline-block;
+    }
+.btn-group{
+  float:right;
+  display:inline-block;
+  display:block;
+  
+}
+/* The sidebar menu */
+.sidebar {
+  height: 100%; /* 100% Full-height */
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0;
+  left: 0;
+  background-color: #ddd; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
+}
+
+/* The sidebar links */
+.sidebar a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #000;
+  display: block;
+  transition: 0.3s;
+}
+.sidebar li{
+  text-align: center;
+  border-bottom: 1px solid #555;
+  display: inline;
+  width:100%;
+  float:left;
+  list-style:none;
+  text-decoration:none;
+}
+.sidebar li:last-child {
+  border-bottom: none;
+  list-style:none;
+  text-decoration:none;
+  }
+/* When you mouse over the navigation links, change their color */
+.sidebar li a:hover {
+  background-color: #555;
+  color: #000;
+  list-style:none;
+  text-decoration:none;
+}
+
+/* Position and style the close button (top right corner) */
+.sidebar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+/* The button used to open the sidebar */
+.openbtn {
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #111;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+}
+
+.openbtn:hover {
+  background-color: #444;
+}
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+main {
+  transition: margin-left .5s; /* If you want a transition effect */
+  padding: 20px;
+  margin-top:5px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
+
+
+
+
+/* The Overlay (background) */
+.overlay {
+  /* Height &amp; width depends on how you want to reveal the overlay (see JS below) */   
+  height: 100%;
+  width: 0;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  background-color: rgb(0,0,0); /* Black fallback color */
+  background-color: rgba(0,0,0, 0.9); /* Black w/opacity */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+}
+
+/* Position the content inside the overlay */
+.overlay-content {
+  position: relative;
+  top: 25%; /* 25% from the top */
+  width: 100%; /* 100% width */
+  text-align: center; /* Centered text/links */
+  margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
+}
+
+/* The navigation links inside the overlay */
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #818181;
+  display: block; /* Display block instead of inline */
+  transition: 0.3s; /* Transition effects on hover (color) */
+}
+
+/* When you mouse over the navigation links, change their color */
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+/* Position the close button (top right corner) */
+.overlay .closebtn {
+  position: absolute;
+  top: 20px;
+  right: 45px;
+  font-size: 60px;
+}
+
+/* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
+@media screen and (max-height: 450px) {
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+  }
+}
+
+.topnav .search-container {
+  float: right;
+}
+
+.topnav input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+
+.topnav .search-container button {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.topnav .search-container button:hover {
+  background: #ccc;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav .search-container {
+    float: none;
+  }
+  .topnav a, .topnav input[type=text], .topnav .search-container button {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;  
+  }
+}
+
+body { 
+	max-width: 1080px; 
+	margin: 0 auto !important; 
+	float: none !important; 
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+	
+  }
+
+.header-container, .body-container, .footer-container { 
+	max-width: 1080px; 
+    margin: 0 auto; 
+	display:block;
+}
+html {
+  display: block;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #555;
+  overflow: hidden;
+  display:inline;
+  float:left;
+  border-bottom: 2px solid #fff;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-bottom: 2px solid #fff;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+clear{
+  padding:0px;
+  margin:0px
+  display: block;
+}
+html:focus {
+  outline: none;
+  display: block;
+}
+.jumbotron text-center{
+  width:100%;
+  height:auto;
+  position:fixed;
+}
+p{
+  list-style:none
+  text-decoration:none;
+  width:100;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  height:auto;
+  width: 12%;
+  background-color: #ddd;
+  position: fixed; /* Make it stick, even on scroll */
+  overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+ul li {
+  text-align: center;
+  border-bottom: 1px solid #555;
+  display: inline;
+  width:100%;
+  float:left;
+  list-style:none;
+  text-decoration:none;
+}
+
+ul li:last-child {
+  border-bottom: none;
+  list-style:none;
+  text-decoration:none;
+}
+ul li a {
+  display: block;
+  color: #000;
+  padding: 8px 10px;
+  text-decoration: none;
+  list-style:none;
+}
+ul li a:hover {
+  background-color: #555;
+  color: #000;
+  list-style:none;
+  text-decoration:none;
+  
+}
+.sidebar active {
+  background-color: #4CAF50;
+  color: #000;
+  list-style:none;
+  text-decoration:none;
+}
+.sidebar a{
+  display: block;
+  padding: 10px;
+  background-color: #ddd;
+  list-style:none;
+  text-decoration:none;
+  }
+.container{
+  margin-top:1px;
+  border-bottom: 1px solid #555;
+  width:100%;
+}
+h2{
+  background-color:#ddd;
+  text-align:center;
+  height:100px;
+  padding-top:32px;
+  width:100%;
+}
+h1{
+  background-color:#ddd;
+  text-align:center;
+  height:100px;
+  padding-top:32px;
+}
+h5{
+  font-size:20px;
+  padding-top:15px;
+  height:50px;
+  width:100%;
+  background-color:#ddd;
+  border-bottom: 1px solid #555;
+}
+.clear{
+  margin:0px;
+  padding:0px;
+}
+
+
+.containerTab {
+  padding: 20px;
+  color: white;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Closable button inside the image */
+.closebtn {
+  float: right;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+/* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #ddd;
+      padding: 25px;
+	  height:300px;
+	  width:100%;
+	  color:#000;
+    }
+    
+  .carousel-inner img {
+      width: 100%; /* Set width to 100% */
+      margin: auto;
+      min-height:200px;
+  }
+
+  /* Hide the carousel text when the screen is less than 600 pixels wide */
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none; 
+    }
+  }
+  
+/* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
+.icon-bar {
+  position: fixed;
+  top: 80%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+/* Style the icon bar links */
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+
+/* Style the social media icons with color, if you want */
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.google {
+  background: #dd4b39;
+  color: white;
+}
+
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.youtube {
+  background: #bb0000;
+  color: white;
+}
+
+footer{
+	position: fixed;
+	bottom: 0;
+}
+
+@media (max-height:800px){
+	footer { position: static; }
+	header { padding-top:40px; }
+}
+
+
+.footer-distributed{
+	background-color: #2c292f;
+	box-sizing: border-box;
+	width: 100%;
+	text-align: left;
+	font: bold 16px sans-serif;
+	padding: 50px 50px 60px 50px;
+	margin-top: 80px;
+}
+
+.footer-distributed .footer-left,
+.footer-distributed .footer-center,
+.footer-distributed .footer-right{
+	display: inline-block;
+	vertical-align: top;
+}
+
+/* Footer left */
+
+.footer-distributed .footer-left{
+	width: 30%;
+}
+
+.footer-distributed h3{
+	color:  #ffffff;
+	font: normal 36px 'Cookie', cursive;
+	margin: 0;
+}
+
+/* The company logo */
+
+.footer-distributed .footer-left img{
+	width: 30%;
+}
+
+.footer-distributed h3 span{
+	color:  #e0ac1c;
+}
+
+/* Footer links */
+
+.footer-distributed .footer-links{
+	color:  #ffffff;
+	margin: 20px 0 12px;
+}
+
+.footer-distributed .footer-links a{
+	display:inline-block;
+	line-height: 1.8;
+	text-decoration: none;
+	color:  inherit;
+}
+
+.footer-distributed .footer-company-name{
+	color:  #8f9296;
+	font-size: 14px;
+	font-weight: normal;
+	margin: 0;
+}
+
+/* Footer Center */
+
+.footer-distributed .footer-center{
+	width: 35%;
+}
+
+
+.footer-distributed .footer-center i{
+	background-color:  #33383b;
+	color: #ffffff;
+	font-size: 25px;
+	width: 38px;
+	height: 38px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 42px;
+	margin: 10px 15px;
+	vertical-align: middle;
+}
+
+.footer-distributed .footer-center i.fa-envelope{
+	font-size: 17px;
+	line-height: 38px;
+}
+
+.footer-distributed .footer-center p{
+	display: inline-block;
+	color: #ffffff;
+	vertical-align: middle;
+	margin:0;
+}
+
+.footer-distributed .footer-center p span{
+	display:block;
+	font-weight: normal;
+	font-size:14px;
+	line-height:2;
+}
+
+.footer-distributed .footer-center p a{
+	color:  #e0ac1c;
+	text-decoration: none;;
+}
+
+
+/* Footer Right */
+
+.footer-distributed .footer-right{
+	width: 30%;
+}
+
+.footer-distributed .footer-company-about{
+	line-height: 20px;
+	color:  #92999f;
+	font-size: 13px;
+	font-weight: normal;
+	margin: 0;
+}
+
+.footer-distributed .footer-company-about span{
+	display: block;
+	color:  #ffffff;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.footer-distributed .footer-icons{
+	margin-top: 25px;
+}
+
+.footer-distributed .footer-icons a{
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	cursor: pointer;
+	background-color:  #33383b;
+	border-radius: 2px;
+
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+	line-height: 35px;
+
+	margin-right: 3px;
+	margin-bottom: 5px;
+}
+
+/* Here is the code for Responsive Footer */
+/* You can remove below code if you don't want Footer to be responsive */
+
+
+@media (max-width: 880px) {
+
+	.footer-distributed .footer-left,
+	.footer-distributed .footer-center,
+	.footer-distributed .footer-right{
+		display: block;
+		width: 100%;
+		margin-bottom: 40px;
+		text-align: center;
+	}
+
+.footer-distributed .footer-center i{
+		margin-left: 0;
+	}
+
+.footer-right{
+  background-color:Black;
+  display:inline-block;
+  position:fixed;
+}
+
+           &lt;/style&gt;
+           
+  &lt;/body&gt;
+&lt;/html&gt;                                		
+</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/template/default'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/template/default'/><link rel='alternate' type='text/html' href='http://tutorialbetua.blogspot.com/'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_PUBLISHING_MODE</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The type of publishing done for this blog.</title><content type='text'>PUBLISH_MODE_BLOGSPOT</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_PUBLISHING_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_PUBLISHING_MODE'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_ADMIN_PERMISSION</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The list of administrators' emails for the blog.</title><content type='text'>shahinmondal42bd@gmail.com</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_ADMIN_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_ADMIN_PERMISSION'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_ADULT_CONTENT</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether this blog contains adult content</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_ADULT_CONTENT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_ADULT_CONTENT'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_ALTERNATE_JSRENDER_ALLOWED</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether alternate JS renderings are allowed</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_ALTERNATE_JSRENDER_ALLOWED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_ALTERNATE_JSRENDER_ALLOWED'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_ANALYTICS_ACCOUNT_NUMBER</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Blog's Google Analytics account number</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_ANALYTICS_ACCOUNT_NUMBER'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_ANALYTICS_ACCOUNT_NUMBER'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_ARCHIVE_DATE_FORMAT</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The number of the archive index date format</title><content type='text'>9</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_ARCHIVE_DATE_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_ARCHIVE_DATE_FORMAT'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_ARCHIVE_FREQUENCY</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>How frequently this blog should be archived</title><content type='text'>MONTHLY</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_ARCHIVE_FREQUENCY'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_ARCHIVE_FREQUENCY'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_AUTHOR_PERMISSION</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The list of authors' emails who have permission to publish.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_AUTHOR_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_AUTHOR_PERMISSION'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_BY_POST_ARCHIVING</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to provide an archive page for each post</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_BY_POST_ARCHIVING'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_BY_POST_ARCHIVING'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_COMMENT_ACCESS</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Who can comment</title><content type='text'>TEAM</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_ACCESS'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_ACCESS'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_COMMENT_CAPTCHA</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to require commenters to complete a Captcha</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_CAPTCHA'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_CAPTCHA'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_COMMENT_EMAIL</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>List of e-mail addresses to send notifications of new comments to</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_EMAIL'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_COMMENT_FEED</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The type of feed to provide for blog comments</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_FEED'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_COMMENT_FORM_LOCATION</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Blog comment form location</title><content type='text'>EMBEDDED_IFRAME</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_FORM_LOCATION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_FORM_LOCATION'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_COMMENT_MESSAGE</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Blog comment message</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_MESSAGE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_MESSAGE'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_COMMENT_MODERATION</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to enable comment moderation</title><content type='text'>DISABLED</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_MODERATION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_MODERATION'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_COMMENT_MODERATION_DELAY</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Number of days after which new comments are subject to moderation</title><content type='text'>14</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_MODERATION_DELAY'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_MODERATION_DELAY'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_COMMENT_MODERATION_EMAIL</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Email address to send notifications of new comments needing moderation to</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_MODERATION_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_MODERATION_EMAIL'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_COMMENT_PROFILE_IMAGES</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to show profile images in comments</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_PROFILE_IMAGES'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENT_PROFILE_IMAGES'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_COMMENTS_ALLOWED</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to show comments</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENTS_ALLOWED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENTS_ALLOWED'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_COMMENTS_TIME_STAMP_FORMAT</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Comment time stamp format number</title><content type='text'>29</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENTS_TIME_STAMP_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_COMMENTS_TIME_STAMP_FORMAT'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_CONVERT_LINE_BREAKS</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to convert line breaks into &lt;br /&gt; tags in post editor</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_CONVERT_LINE_BREAKS'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_CONVERT_LINE_BREAKS'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_CUSTOM_ADS_TXT</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The custom ads.txt content of the blog served to ads search engines.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_CUSTOM_ADS_TXT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_CUSTOM_ADS_TXT'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_CUSTOM_ADS_TXT_ENABLED</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether this blog serves custom ads.txt content to ads search engines.</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_CUSTOM_ADS_TXT_ENABLED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_CUSTOM_ADS_TXT_ENABLED'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_CUSTOM_PAGE_NOT_FOUND</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The content served when the requested post or page is not found.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_CUSTOM_PAGE_NOT_FOUND'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_CUSTOM_PAGE_NOT_FOUND'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_CUSTOM_ROBOTS_TXT</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The custom robots.txt content of the blog served to search engines.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_CUSTOM_ROBOTS_TXT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_CUSTOM_ROBOTS_TXT'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_CUSTOM_ROBOTS_TXT_ENABLED</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether this blog serves custom robots.txt content to search engines.</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_CUSTOM_ROBOTS_TXT_ENABLED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_CUSTOM_ROBOTS_TXT_ENABLED'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_DATE_FORMAT</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The number of the date header format</title><content type='text'>26</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_DATE_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_DATE_FORMAT'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_DEFAULT_COMMENTS_MODE</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Default comment mode for posts</title><content type='text'>DEFAULT_HAVE_COMMENTS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_DEFAULT_COMMENTS_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_DEFAULT_COMMENTS_MODE'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_DESCRIPTION</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>A description of the blog</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_DESCRIPTION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_DESCRIPTION'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_EMAIL_POST_LINKS</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to show a link for users to e-mail posts</title><content type='text'>false</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_EMAIL_POST_LINKS'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_EMAIL_POST_LINKS'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_FEED_REDIRECT_URL</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>URL to redirect post feed requests to</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_FEED_REDIRECT_URL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_FEED_REDIRECT_URL'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_FLOAT_ALIGNMENT</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether float alignment is enabled for the blog</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_FLOAT_ALIGNMENT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_FLOAT_ALIGNMENT'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_LOCALE</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Language for this blog</title><content type='text'>en</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_LOCALE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_LOCALE'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_MAX_NUM</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Maximum number of things to show on the main page"</title><content type='text'>7</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_MAX_NUM'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_MAX_NUM'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_MAX_UNIT</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Unit of things to show on the main page</title><content type='text'>POSTS</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_MAX_UNIT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_MAX_UNIT'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_META_DESCRIPTION</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The meta description of the blog served to search engines.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_META_DESCRIPTION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_META_DESCRIPTION'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_META_DESCRIPTION_ENABLED</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether this blog is served with meta descriptions.</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_META_DESCRIPTION_ENABLED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_META_DESCRIPTION_ENABLED'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_NAME</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The name of the blog</title><content type='text'>tutorialweb</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_NAME'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_NAME'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_PER_POST_FEED</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The type of feed to provide for per-post comments</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_PER_POST_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_PER_POST_FEED'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_POST_FEED</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The type of feed to provide for blog posts</title><content type='text'>FULL</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_POST_FEED'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_POST_FEED'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_POST_FEED_FOOTER</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Footer to append to the end of each entry in the post feed</title><content type='text'>tutorialweb</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_POST_FEED_FOOTER'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_POST_FEED_FOOTER'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_POST_TEMPLATE</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The template for blog posts</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_POST_TEMPLATE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_POST_TEMPLATE'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_QUICK_EDITING</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether Quick Editing is enabled</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_QUICK_EDITING'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_QUICK_EDITING'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_READ_ACCESS_MODE</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The access type for the readers of the blog.</title><content type='text'>PUBLIC</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_READ_ACCESS_MODE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_READ_ACCESS_MODE'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_READER_PERMISSION</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The list of emails for users who have permission to read the blog.</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_READER_PERMISSION'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_READER_PERMISSION'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_SEARCHABLE</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether this blog should be indexed by search engines</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_SEARCHABLE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_SEARCHABLE'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_SEND_EMAIL</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Comma separated list of emails to send new blog posts to</title><content type='text'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_SEND_EMAIL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_SEND_EMAIL'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_SHOW_TITLE</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to show the title field</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_SHOW_TITLE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_SHOW_TITLE'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_SHOW_URL</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to show a related link box in the post composer</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_SHOW_URL'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_SHOW_URL'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_SUBDOMAIN</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The BlogSpot subdomain under which to publish your blog</title><content type='text'>tutorialbetua</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_SUBDOMAIN'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_SUBDOMAIN'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_TIME_STAMP_FORMAT</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The number of the time stamp format</title><content type='text'>15</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_TIME_STAMP_FORMAT'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_TIME_STAMP_FORMAT'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_TIME_ZONE</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>The time zone for this blog</title><content type='text'>America/Los_Angeles</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_TIME_ZONE'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_TIME_ZONE'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.settings.BLOG_USE_LIGHTBOX</id><published>2019-08-03T13:47:39.210-07:00</published><updated>2021-03-15T12:15:40.014-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#settings'/><title type='text'>Whether to show images in the Lightbox when clicked</title><content type='text'>true</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_USE_LIGHTBOX'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/settings/BLOG_USE_LIGHTBOX'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.post-7404038017164239671</id><published>2021-03-15T12:06:00.000-07:00</published><updated>2021-03-15T12:06:51.511-07:00</updated><app:control xmlns:app='http://purl.org/atom/app#'><app:draft>yes</app:draft></app:control><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><title type='text'></title><content type='html'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/posts/default/7404038017164239671'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/posts/default/7404038017164239671'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.post-702547040922292010</id><published>2021-03-15T11:54:00.000-07:00</published><updated>2021-03-15T11:54:59.972-07:00</updated><app:control xmlns:app='http://purl.org/atom/app#'><app:draft>yes</app:draft></app:control><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#post'/><title type='text'></title><content type='html'></content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/posts/default/702547040922292010'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/posts/default/702547040922292010'/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author><thr:total>0</thr:total></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.page-3058582526840411669</id><published>2019-08-03T13:55:00.002-07:00</published><updated>2019-08-03T13:55:33.322-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#page'/><title type='text'></title><content type='html'>&lt;!doctype html&gt;&lt;html lang=""&gt;  &lt;head&gt;    &lt;meta charset="utf-8"&gt;    &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;    &lt;meta name="description" content=""&gt;    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;    &lt;title&gt;Web Starter Kit&lt;/title&gt;     &lt;!-- Disable tap highlight on IE --&gt;    &lt;meta name="msapplication-tap-highlight" content="no"&gt;     &lt;!-- Web Application Manifest --&gt;    &lt;link rel="manifest" href="manifest.json"&gt;     &lt;!-- Add to homescreen for Chrome on Android --&gt;    &lt;meta name="mobile-web-app-capable" content="yes"&gt;    &lt;meta name="application-name" content="Web Starter Kit"&gt;    &lt;link rel="icon" sizes="192x192" href="images/touch/chrome-touch-icon-192x192.png"&gt;     &lt;!-- Add to homescreen for Safari on iOS --&gt;    &lt;meta name="apple-mobile-web-app-capable" content="yes"&gt;    &lt;meta name="apple-mobile-web-app-status-bar-style" content="black"&gt;    &lt;meta name="apple-mobile-web-app-title" content="Web Starter Kit"&gt;    &lt;link rel="apple-touch-icon" href="images/touch/apple-touch-icon.png"&gt;     &lt;!-- Tile icon for Win8 (144x144 + tile color) --&gt;    &lt;meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png"&gt;    &lt;meta name="msapplication-TileColor" content="#2F3BA2"&gt;     &lt;!-- Color the status bar on mobile devices --&gt;    &lt;meta name="theme-color" content="#2F3BA2"&gt;     &lt;!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones --&gt;    &lt;!--     &lt;link rel="canonical" href="http://www.example.com/"&gt;    --&gt;     &lt;!-- Material Design icons --&gt;    &lt;link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"&gt;      &lt;!-- Material Design Lite page styles:     You can choose other color schemes from the CDN, more info here http://www.getmdl.io/customize/index.html     Format: material.color1-color2.min.css, some examples:     material.red-teal.min.css     material.blue-orange.min.css     material.purple-indigo.min.css     --&gt;    &lt;link rel="stylesheet" href="https://code.getmdl.io/1.2.1/material.indigo-pink.min.css"&gt;     &lt;!-- Your styles --&gt;    &lt;link rel="stylesheet" href="styles/main.css"&gt;  &lt;/head&gt;  &lt;body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base"&gt;    &lt;div class="mdl-layout mdl-js-layout mdl-layout--fixed-header"&gt;      &lt;header class="mdl-layout__header mdl-layout__header--scroll mdl-color--primary"&gt;        &lt;div class="mdl-layout--large-screen-only mdl-layout__header-row"&gt;        &lt;/div&gt;        &lt;div class="mdl-layout--large-screen-only mdl-layout__header-row"&gt;          &lt;h3&gt;Web Starter Kit&lt;/h3&gt;        &lt;/div&gt;        &lt;div class="mdl-layout--large-screen-only mdl-layout__header-row"&gt;        &lt;/div&gt;        &lt;div class="mdl-layout__tab-bar mdl-js-ripple-effect mdl-color--primary-dark"&gt;          &lt;a href="#overview" class="mdl-layout__tab is-active"&gt;Overview&lt;/a&gt;          &lt;a href="#features" class="mdl-layout__tab"&gt;Features&lt;/a&gt;          &lt;a href="#features" class="mdl-layout__tab"&gt;Details&lt;/a&gt;          &lt;a href="#features" class="mdl-layout__tab"&gt;Technology&lt;/a&gt;          &lt;a href="#features" class="mdl-layout__tab"&gt;FAQ&lt;/a&gt;          &lt;button class="mdl-button mdl-js-button mdl-button--fab mdl-js-ripple-effect mdl-button--colored mdl-shadow--4dp mdl-color--accent" id="add"&gt;            &lt;i class="material-icons" role="presentation"&gt;add&lt;/i&gt;            &lt;span class="visuallyhidden"&gt;Add&lt;/span&gt;          &lt;/button&gt;        &lt;/div&gt;      &lt;/header&gt;      &lt;main class="mdl-layout__content"&gt;        &lt;div class="mdl-layout__tab-panel is-active" id="overview"&gt;          &lt;section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp"&gt;            &lt;header class="section__play-btn mdl-cell mdl-cell--3-col-desktop mdl-cell--2-col-tablet mdl-cell--4-col-phone mdl-color--teal-100 mdl-color-text--white"&gt;              &lt;i class="material-icons"&gt;play_circle_filled&lt;/i&gt;            &lt;/header&gt;            &lt;div class="mdl-card mdl-cell mdl-cell--9-col-desktop mdl-cell--6-col-tablet mdl-cell--4-col-phone"&gt;              &lt;div class="mdl-card__supporting-text"&gt;                &lt;h4&gt;Features&lt;/h4&gt;                Dolore ex deserunt aute fugiat aute nulla ea sunt aliqua nisi cupidatat eu. Nostrud in laboris labore nisi amet do dolor eu fugiat consectetur elit cillum esse.               &lt;/div&gt;              &lt;div class="mdl-card__actions"&gt;                &lt;a href="#" class="mdl-button"&gt;Read our features&lt;/a&gt;              &lt;/div&gt;            &lt;/div&gt;            &lt;button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn1"&gt;              &lt;i class="material-icons"&gt;more_vert&lt;/i&gt;            &lt;/button&gt;            &lt;ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="btn1"&gt;              &lt;li class="mdl-menu__item"&gt;Lorem&lt;/li&gt;              &lt;li class="mdl-menu__item" disabled&gt;Ipsum&lt;/li&gt;              &lt;li class="mdl-menu__item"&gt;Dolor&lt;/li&gt;            &lt;/ul&gt;          &lt;/section&gt;          &lt;section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp"&gt;            &lt;div class="mdl-card mdl-cell mdl-cell--12-col"&gt;              &lt;div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing"&gt;                &lt;h4 class="mdl-cell mdl-cell--12-col"&gt;Details&lt;/h4&gt;                &lt;div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone"&gt;                  &lt;div class="section__circle-container__circle mdl-color--primary"&gt;&lt;/div&gt;                &lt;/div&gt;                &lt;div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone"&gt;                  &lt;h5&gt;Lorem ipsum dolor sit amet&lt;/h5&gt;                  Dolore ex deserunt aute fugiat aute nulla ea sunt aliqua nisi cupidatat eu. Duis nulla tempor do aute et eiusmod velit exercitation nostrud quis &lt;a href="#"&gt;proident minim&lt;/a&gt;.                 &lt;/div&gt;                &lt;div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone"&gt;                  &lt;div class="section__circle-container__circle mdl-color--primary"&gt;&lt;/div&gt;                &lt;/div&gt;                &lt;div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone"&gt;                  &lt;h5&gt;Lorem ipsum dolor sit amet&lt;/h5&gt;                  Dolore ex deserunt aute fugiat aute nulla ea sunt aliqua nisi cupidatat eu. Duis nulla tempor do aute et eiusmod velit exercitation nostrud quis &lt;a href="#"&gt;proident minim&lt;/a&gt;.                 &lt;/div&gt;                &lt;div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone"&gt;                  &lt;div class="section__circle-container__circle mdl-color--primary"&gt;&lt;/div&gt;                &lt;/div&gt;                &lt;div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone"&gt;                  &lt;h5&gt;Lorem ipsum dolor sit amet&lt;/h5&gt;                  Dolore ex deserunt aute fugiat aute nulla ea sunt aliqua nisi cupidatat eu. Duis nulla tempor do aute et eiusmod velit exercitation nostrud quis &lt;a href="#"&gt;proident minim&lt;/a&gt;.                 &lt;/div&gt;              &lt;/div&gt;              &lt;div class="mdl-card__actions"&gt;                &lt;a href="#" class="mdl-button"&gt;Read our features&lt;/a&gt;              &lt;/div&gt;            &lt;/div&gt;            &lt;button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn2"&gt;              &lt;i class="material-icons"&gt;more_vert&lt;/i&gt;            &lt;/button&gt;            &lt;ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="btn2"&gt;              &lt;li class="mdl-menu__item"&gt;Lorem&lt;/li&gt;              &lt;li class="mdl-menu__item" disabled&gt;Ipsum&lt;/li&gt;              &lt;li class="mdl-menu__item"&gt;Dolor&lt;/li&gt;            &lt;/ul&gt;          &lt;/section&gt;          &lt;section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp"&gt;            &lt;div class="mdl-card mdl-cell mdl-cell--12-col"&gt;              &lt;div class="mdl-card__supporting-text"&gt;                &lt;h4&gt;Technology&lt;/h4&gt;                Dolore ex deserunt aute fugiat aute nulla ea sunt aliqua nisi cupidatat eu. Nostrud in laboris labore nisi amet do dolor eu fugiat consectetur elit cillum esse. Pariatur occaecat nisi laboris tempor laboris eiusmod qui id Lorem esse commodo in. Exercitation aute dolore deserunt culpa consequat elit labore incididunt elit anim.               &lt;/div&gt;              &lt;div class="mdl-card__actions"&gt;                &lt;a href="#" class="mdl-button"&gt;Read our features&lt;/a&gt;              &lt;/div&gt;            &lt;/div&gt;            &lt;button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" id="btn3"&gt;              &lt;i class="material-icons"&gt;more_vert&lt;/i&gt;            &lt;/button&gt;            &lt;ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="btn3"&gt;              &lt;li class="mdl-menu__item"&gt;Lorem&lt;/li&gt;              &lt;li class="mdl-menu__item" disabled&gt;Ipsum&lt;/li&gt;              &lt;li class="mdl-menu__item"&gt;Dolor&lt;/li&gt;            &lt;/ul&gt;          &lt;/section&gt;          &lt;section class="section--footer mdl-color--white mdl-grid"&gt;            &lt;div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone"&gt;              &lt;div class="section__circle-container__circle mdl-color--accent section__circle--big"&gt;&lt;/div&gt;            &lt;/div&gt;            &lt;div class="section__text mdl-cell mdl-cell--4-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone"&gt;              &lt;h5&gt;Lorem ipsum dolor sit amet&lt;/h5&gt;              Qui sint ut et qui nisi cupidatat. Reprehenderit nostrud proident officia exercitation anim et pariatur ex.             &lt;/div&gt;            &lt;div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone"&gt;              &lt;div class="section__circle-container__circle mdl-color--accent section__circle--big"&gt;&lt;/div&gt;            &lt;/div&gt;            &lt;div class="section__text mdl-cell mdl-cell--4-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone"&gt;              &lt;h5&gt;Lorem ipsum dolor sit amet&lt;/h5&gt;              Qui sint ut et qui nisi cupidatat. Reprehenderit nostrud proident officia exercitation anim et pariatur ex.             &lt;/div&gt;          &lt;/section&gt;        &lt;/div&gt;        &lt;div class="mdl-layout__tab-panel" id="features"&gt;          &lt;section class="section--center mdl-grid mdl-grid--no-spacing"&gt;            &lt;div class="mdl-cell mdl-cell--12-col"&gt;              &lt;h4&gt;Features&lt;/h4&gt;              Minim duis incididunt est cillum est ex occaecat consectetur. Qui sint ut et qui nisi cupidatat. Reprehenderit nostrud proident officia exercitation anim et pariatur ex.               &lt;ul class="toc"&gt;                &lt;h4&gt;Contents&lt;/h4&gt;                &lt;a href="#lorem1"&gt;Lorem ipsum&lt;/a&gt;                &lt;a href="#lorem2"&gt;Lorem ipsum&lt;/a&gt;                &lt;a href="#lorem3"&gt;Lorem ipsum&lt;/a&gt;                &lt;a href="#lorem4"&gt;Lorem ipsum&lt;/a&gt;                &lt;a href="#lorem5"&gt;Lorem ipsum&lt;/a&gt;              &lt;/ul&gt;               &lt;h5 id="lorem1"&gt;Lorem ipsum dolor sit amet&lt;/h5&gt;              Excepteur et pariatur officia veniam anim culpa cupidatat consequat ad velit culpa est non.               &lt;ul&gt;                &lt;li&gt;Nisi qui nisi duis commodo duis reprehenderit consequat velit aliquip.&lt;/li&gt;                &lt;li&gt;Dolor consectetur incididunt in ipsum laborum non et irure pariatur excepteur anim occaecat officia sint.&lt;/li&gt;                &lt;li&gt;Lorem labore proident officia excepteur do.&lt;/li&gt;              &lt;/ul&gt;               &lt;p&gt;                Sit qui est voluptate proident minim cillum in aliquip cupidatat labore pariatur id tempor id. Proident occaecat occaecat sint mollit tempor duis dolor cillum anim. Dolore sunt ea mollit fugiat in aliqua consequat nostrud aliqua ut irure in dolore. Proident aliqua culpa sint sint exercitation. Non proident occaecat reprehenderit veniam et proident dolor id culpa ea tempor do dolor. Nulla adipisicing qui fugiat id dolor. Nostrud magna voluptate irure veniam veniam labore ipsum deserunt adipisicing laboris amet eu irure. Sunt dolore nisi velit sit id. Nostrud voluptate labore proident cupidatat enim amet Lorem officia magna excepteur occaecat eu qui. Exercitation culpa deserunt non et tempor et non.               &lt;/p&gt;              &lt;p&gt;                Do dolor eiusmod eu mollit dolore nostrud deserunt cillum irure esse sint irure fugiat exercitation. Magna sit voluptate id in tempor elit veniam enim cupidatat ea labore elit. Aliqua pariatur eu nulla labore magna dolore mollit occaecat sint commodo culpa. Eu non minim duis pariatur Lorem quis exercitation. Sunt qui ex incididunt sit anim incididunt sit elit ad officia id.               &lt;/p&gt;              &lt;p id="lorem2"&gt;                Tempor voluptate ex consequat fugiat aliqua. Do sit et reprehenderit culpa deserunt culpa. Excepteur quis minim mollit irure nulla excepteur enim quis in laborum. Aliqua elit voluptate ad deserunt nulla reprehenderit adipisicing sint. Est in eiusmod exercitation esse commodo. Ea reprehenderit exercitation veniam adipisicing minim nostrud. Veniam dolore ex ea occaecat non enim minim id ut aliqua adipisicing ad. Occaecat excepteur aliqua tempor cupidatat aute dolore deserunt ipsum qui incididunt aliqua occaecat sit quis. Culpa sint aliqua aliqua reprehenderit veniam irure fugiat ea ad.               &lt;/p&gt;              &lt;p&gt;                Eu minim fugiat laborum irure veniam Lorem aliqua enim. Aliqua veniam incididunt consequat irure consequat tempor do nisi deserunt. Elit dolore ad quis consectetur sint laborum anim magna do nostrud amet. Ea nulla sit consequat quis qui irure dolor. Sint deserunt excepteur consectetur magna irure. Dolor tempor exercitation dolore pariatur incididunt ut laboris fugiat ipsum sunt veniam aute sunt labore. Non dolore sit nostrud eu ad excepteur cillum eu ex Lorem duis.               &lt;/p&gt;              &lt;p&gt;                Id occaecat velit non ipsum occaecat aliqua quis ut. Eiusmod est magna non esse est ex incididunt aute ullamco. Cillum excepteur sint ipsum qui quis velit incididunt amet. Qui deserunt anim enim laborum cillum reprehenderit duis mollit amet ad officia enim. Minim sint et quis aliqua aliqua do minim officia dolor deserunt ipsum laboris. Nulla nisi voluptate consectetur est voluptate et amet. Occaecat ut quis adipisicing ad enim. Magna est magna sit duis proident veniam reprehenderit fugiat reprehenderit enim velit ex. Ullamco laboris culpa irure aliquip ad Lorem consequat veniam ad ipsum eu. Ipsum culpa dolore sunt officia laborum quis.               &lt;/p&gt;               &lt;h5 id="lorem3"&gt;Lorem ipsum dolor sit amet&lt;/h5&gt;               &lt;p id="lorem4"&gt;                Eiusmod nulla aliquip ipsum reprehenderit nostrud non excepteur mollit amet esse est est dolor. Dolore quis pariatur sit consectetur veniam esse ullamco duis Lorem qui enim ut veniam. Officia deserunt minim duis laborum dolor in velit pariatur commodo ullamco eu. Aute adipisicing ad duis labore laboris do mollit dolor cillum sunt aliqua ullamco. Esse tempor quis cillum consequat reprehenderit. Adipisicing proident anim eu sint elit aliqua anim dolore cupidatat fugiat aliquip qui.               &lt;/p&gt;              &lt;p id="lorem5"&gt;                Nisi eiusmod esse cupidatat excepteur exercitation ipsum reprehenderit nostrud deserunt aliqua ullamco. Anim est irure commodo eiusmod pariatur officia. Est dolor ipsum excepteur magna aliqua ad veniam irure qui occaecat eiusmod aute fugiat commodo. Quis mollit incididunt amet sit minim velit eu fugiat voluptate excepteur. Sit minim id pariatur ex cupidatat cupidatat nostrud nostrud ipsum.               &lt;/p&gt;              &lt;p&gt;                Enim ea officia excepteur ad veniam id reprehenderit eiusmod esse mollit consequat. Esse non aute ullamco Lorem aliqua qui dolore irure eiusmod aute aliqua proident labore aliqua. Ipsum voluptate voluptate exercitation laborum deserunt nulla elit aliquip et minim ex veniam. Duis cupidatat aute sunt officia mollit dolor ad elit ad aute labore nostrud duis pariatur. In est sint voluptate consectetur velit ea non labore. Ut duis ea aliqua consequat nulla laboris fugiat aute id culpa proident. Minim eiusmod laboris enim Lorem nisi excepteur mollit voluptate enim labore reprehenderit officia mollit.               &lt;/p&gt;              &lt;p&gt;                Cupidatat labore nisi ut sunt voluptate quis sunt qui ad Lorem esse nisi. Ex esse velit ullamco incididunt occaecat dolore veniam tempor minim adipisicing amet. Consequat in exercitation est elit anim consequat cillum sint labore cillum. Aliquip mollit laboris ad labore anim.               &lt;/p&gt;            &lt;/div&gt;          &lt;/section&gt;        &lt;/div&gt;        &lt;footer class="mdl-mega-footer"&gt;          &lt;div class="mdl-mega-footer--middle-section"&gt;            &lt;div class="mdl-mega-footer--drop-down-section"&gt;              &lt;input class="mdl-mega-footer--heading-checkbox" type="checkbox" checked&gt;              &lt;h1 class="mdl-mega-footer--heading"&gt;Features&lt;/h1&gt;              &lt;ul class="mdl-mega-footer--link-list"&gt;                &lt;li&gt;&lt;a href="#"&gt;About&lt;/a&gt;&lt;/li&gt;                &lt;li&gt;&lt;a href="#"&gt;Terms&lt;/a&gt;&lt;/li&gt;                &lt;li&gt;&lt;a href="#"&gt;Partners&lt;/a&gt;&lt;/li&gt;                &lt;li&gt;&lt;a href="#"&gt;Updates&lt;/a&gt;&lt;/li&gt;              &lt;/ul&gt;            &lt;/div&gt;            &lt;div class="mdl-mega-footer--drop-down-section"&gt;              &lt;input class="mdl-mega-footer--heading-checkbox" type="checkbox" checked&gt;              &lt;h1 class="mdl-mega-footer--heading"&gt;Details&lt;/h1&gt;              &lt;ul class="mdl-mega-footer--link-list"&gt;                &lt;li&gt;&lt;a href="#"&gt;Spec&lt;/a&gt;&lt;/li&gt;                &lt;li&gt;&lt;a href="#"&gt;Tools&lt;/a&gt;&lt;/li&gt;                &lt;li&gt;&lt;a href="#"&gt;Resources&lt;/a&gt;&lt;/li&gt;              &lt;/ul&gt;            &lt;/div&gt;            &lt;div class="mdl-mega-footer--drop-down-section"&gt;              &lt;input class="mdl-mega-footer--heading-checkbox" type="checkbox" checked&gt;              &lt;h1 class="mdl-mega-footer--heading"&gt;Technology&lt;/h1&gt;              &lt;ul class="mdl-mega-footer--link-list"&gt;                &lt;li&gt;&lt;a href="#"&gt;How it works&lt;/a&gt;&lt;/li&gt;                &lt;li&gt;&lt;a href="#"&gt;Patterns&lt;/a&gt;&lt;/li&gt;                &lt;li&gt;&lt;a href="#"&gt;Usage&lt;/a&gt;&lt;/li&gt;                &lt;li&gt;&lt;a href="#"&gt;Products&lt;/a&gt;&lt;/li&gt;                &lt;li&gt;&lt;a href="#"&gt;Contracts&lt;/a&gt;&lt;/li&gt;              &lt;/ul&gt;            &lt;/div&gt;            &lt;div class="mdl-mega-footer--drop-down-section"&gt;              &lt;input class="mdl-mega-footer--heading-checkbox" type="checkbox" checked&gt;              &lt;h1 class="mdl-mega-footer--heading"&gt;FAQ&lt;/h1&gt;              &lt;ul class="mdl-mega-footer--link-list"&gt;                &lt;li&gt;&lt;a href="#"&gt;Questions&lt;/a&gt;&lt;/li&gt;                &lt;li&gt;&lt;a href="#"&gt;Answers&lt;/a&gt;&lt;/li&gt;                &lt;li&gt;&lt;a href="#"&gt;Contact us&lt;/a&gt;&lt;/li&gt;              &lt;/ul&gt;            &lt;/div&gt;          &lt;/div&gt;          &lt;div class="mdl-mega-footer--bottom-section"&gt;            &lt;div class="mdl-logo"&gt;              More Information             &lt;/div&gt;            &lt;ul class="mdl-mega-footer--link-list"&gt;              &lt;li&gt;&lt;a href="https://developers.google.com/web/starter-kit/"&gt;Web Starter Kit&lt;/a&gt;&lt;/li&gt;              &lt;li&gt;&lt;a href="#"&gt;Help&lt;/a&gt;&lt;/li&gt;              &lt;li&gt;&lt;a href="#"&gt;Privacy and Terms&lt;/a&gt;&lt;/li&gt;            &lt;/ul&gt;          &lt;/div&gt;        &lt;/footer&gt;      &lt;/main&gt;    &lt;/div&gt;     &lt;script src="https://code.getmdl.io/1.2.1/material.min.js"&gt;&lt;/script&gt;    &lt;!-- build:js scripts/main.min.js --&gt;    &lt;script src="scripts/main.js"&gt;&lt;/script&gt;    &lt;!-- endbuild --&gt;     &lt;!-- Google Analytics: change UA-XXXXX-X to be your site's ID --&gt;    &lt;script&gt;      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');       ga('create', 'UA-XXXXX-X', 'auto');       ga('send', 'pageview');     &lt;/script&gt;    &lt;!-- Built with love using Web Starter Kit --&gt;  &lt;/body&gt;&lt;/html&gt;&lt;div class="blogger-post-footer"&gt;tutorialweb&lt;/div&gt;</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/pages/default/3058582526840411669'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/pages/default/3058582526840411669'/><link rel='alternate' type='text/html' href='http://tutorialbetua.blogspot.com/p/web-starter-kit-web-starter-kit.html' title=''/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author></entry><entry><id>tag:blogger.com,1999:blog-4560978628508153115.post-9113152276800883352</id><published>2019-08-03T14:01:11.493-07:00</published><updated>2019-08-03T14:01:11.493-07:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/blogger/2008/kind#comment'/><title type='text'>Hello!</title><content type='html'>Hello!</content><link rel='edit' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/2031370049729391544/comments/default/9113152276800883352'/><link rel='self' type='application/atom+xml' href='https://www.blogger.com/feeds/4560978628508153115/2031370049729391544/comments/default/9113152276800883352'/><link rel='alternate' type='text/html' href='http://tutorialbetua.blogspot.com/2019/08/blog-post.html?showComment=1564866071493#c9113152276800883352' title=''/><author><name>shahin mondal</name><uri>https://www.blogger.com/profile/03073942951065814931</uri><email>noreply@blogger.com</email><gd:image rel='http://schemas.google.com/g/2005#thumbnail' width='35' height='35' src='//www.blogger.com/img/blogger_logo_round_35.png'/></author><thr:in-reply-to href='https://tutorialbetua.blogspot.com/2019/08/blog-post.html' ref='tag:blogger.com,1999:blog-4560978628508153115.post-2031370049729391544' source='https://www.blogger.com/feeds/4560978628508153115/posts/default/2031370049729391544' type='text/html'/><gd:extendedProperty name='blogger.itemClass' value='pid-1460494848'/><gd:extendedProperty name='blogger.displayTime' value='August 3, 2019 at 2:01 PM'/></entry></feed>
